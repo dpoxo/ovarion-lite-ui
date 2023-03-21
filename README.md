@@ -1,5 +1,5 @@
 # Ovarion Lite
 
-An Aalysis tool for basketball over/under market
+An Analysis tool for basketball over/under market
 
 [ only UI is public ]
